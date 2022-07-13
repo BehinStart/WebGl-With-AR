@@ -1,0 +1,16 @@
+{
+"companyName": "digitoolapps",
+"productName": "WebGl With AR",
+"productVersion": "0.1",
+"dataUrl": "WebXR 0.5 2022.07.13.data.unityweb",
+"wasmCodeUrl": "WebXR 0.5 2022.07.13.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebXR 0.5 2022.07.13.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#074C80",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
